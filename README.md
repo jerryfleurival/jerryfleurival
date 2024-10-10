@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jerry Fleurival, and I am working on the following languages:
-[![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) JavaScript
-[![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Jquery
-[![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) React
-[![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Python
-[![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Bootstrap
+My name is Jerry Fleurival, and I am working on the following languages:<br>
+  [![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) JavaScript<br>
+  [![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Jquery<br>
+  [![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) React<br>
+  [![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Python<br>
+  [![RubiksCube](https://cdn3.emoji.gg/emojis/9925_RubiksCube.png)](https://emoji.gg/emoji/9925_RubiksCube) Bootstrap<br>
